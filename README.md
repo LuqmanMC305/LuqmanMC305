@@ -2,7 +2,7 @@
 
 # Hi, I'm Luqman Afizar 👋
 
-Software Engineering Student @ Universiti Sains Malaysia  
+Software Engineering Student at Universiti Sains Malaysia  
 Interested in Full-Stack Development • AI • Backend Systems • Embedded Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/luqmanulhakim-afizar-190820241)
