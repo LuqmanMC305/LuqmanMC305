@@ -25,7 +25,7 @@ My interests include full-stack web development, backend engineering, AI applica
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Monitus** *(Final Year Project)* | Localised emergency alert platform with geofencing, real-time notifications and an admin dashboard. | Flutter, Laravel, PostgreSQL, Firebase Cloud Messaging (FCM) |
+| **Monitus** *(Final Year Project)* | Localised emergency alert platform with geofencing, real-time notifications and an admin dashboard. Awarded the **Bronze Award** at the **PIXEL 2026 Final Year Project Competition**. | Flutter, Laravel, PostgreSQL, Firebase Cloud Messaging (FCM), Telegram Bot API, Leaflet.js, Gemini API|
 | **Campus Connect** | Interactive web platform that centralises USM campus events using a map interface. Students can browse, filter and submit events for administrator approval. | Vite, TypeScript, Firebase, Leaflet.js |
 | **ANPR Smart Parking System** | AI-powered parking management system using YOLOv8 and OCR for real-time licence plate recognition. Includes payment dashboard and Flask API. Achieved **Technology Readiness Level (TRL) 4** during university startup accelerator testing. | Python, Flutter, YOLOv8, OCR, Firebase |
 | **Marketplace4U** | Student recommerce platform for buying and selling second-hand items. | Next.js, Firebase|
@@ -108,6 +108,7 @@ Expected Graduation: 2026
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
 ## Database
 
