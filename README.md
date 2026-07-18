@@ -25,7 +25,7 @@ My interests include full-stack web development, backend engineering, AI applica
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Monitus** *(FYP)* | Localised emergency alert platform with geofencing, real-time notifications and an admin dashboard. | Flutter, Laravel, PostgreSQL, Firebase Cloud Messaging (FCM) |
+| **Monitus** *(Final Year Project)* | Localised emergency alert platform with geofencing, real-time notifications and an admin dashboard. | Flutter, Laravel, PostgreSQL, Firebase Cloud Messaging (FCM) |
 | **Campus Connect** | Interactive web platform that centralises USM campus events using a map interface. Students can browse, filter and submit events for administrator approval. | Vite, TypeScript, Firebase, Leaflet.js |
 | **ANPR Smart Parking System** | AI-powered parking management system using YOLOv8 and OCR for real-time licence plate recognition. Includes payment dashboard and Flask API. Achieved **Technology Readiness Level (TRL) 4** during university startup accelerator testing. | Python, Flutter, YOLOv8, OCR, Firebase |
 | **Marketplace4U** | Student recommerce platform for buying and selling second-hand items. | Next.js, Firebase|
@@ -132,7 +132,7 @@ Expected Graduation: 2026
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
 [![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#)
+
 
 ## Cloud
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
@@ -152,14 +152,14 @@ Expected Graduation: 2026
 
 # Currently Learning
 
-**Technologies**
+## **Technologies**
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-**Topics**
+## **Topics**
 
 - Data Structures & Algorithms
 - Competitive Programming
