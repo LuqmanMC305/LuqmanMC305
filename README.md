@@ -2,7 +2,7 @@
 
 # Hi, I'm Luqman Afizar 👋
 
-Computer Science Student @ Universiti Sains Malaysia  
+Software Engineering Student @ Universiti Sains Malaysia  
 Interested in Full-Stack Development • AI • Backend Systems • Embedded Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/luqmanulhakim-afizar-190820241)
@@ -15,9 +15,9 @@ Interested in Full-Stack Development • AI • Backend Systems • Embedded Sys
 
 # About
 
-I'm a Computer Science undergraduate at Universiti Sains Malaysia with an interest in building software that solves practical problems.
+I'm a final year Software Engineering undergraduate at Universiti Sains Malaysia with an interest in building things that solves practical problems for fun!
 
-My interests include full-stack web development, backend engineering, AI applications, and embedded systems. I enjoy learning a lot of things, not just technologies, but also in geography, meteorology, geology, history, political science, astronomy, and taxonomy.
+My interests include full-stack web development, backend engineering, AI applications, and embedded systems. I enjoy learning a lot of things such as cutting-edge technologies, linguistics, algorithms, geography, meteorology, geology, history, political science, astronomy, and taxonomy. Hence, my intellectual interests are extremely wide! 
 
 ---
 
