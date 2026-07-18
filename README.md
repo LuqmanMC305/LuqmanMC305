@@ -3,7 +3,7 @@
 # Hi, I'm Luqman Afizar 👋
 
 Software Engineering Student at Universiti Sains Malaysia  
-Interested in Full-Stack Development • AI • Backend Systems • Embedded Systems
+Interested in Full-Stack Development • AI • Embedded Systems • Geographic Information Systems (GIS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/luqmanulhakim-afizar-190820241)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:luqmanulhakim0003@gmail.com)
@@ -25,10 +25,10 @@ My interests include full-stack web development, backend engineering, AI applica
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Monitus** *(Final Year Project)* | Localised emergency alert platform with geofencing, real-time notifications and an admin dashboard. Awarded the **Bronze Award** at the **PIXEL 2026 Final Year Project Competition**. | Flutter, Laravel, PostgreSQL, Firebase Cloud Messaging (FCM), Telegram Bot API, Leaflet.js, Gemini API|
-| **Campus Connect** | Interactive web platform that centralises USM campus events using a map interface. Students can browse, filter and submit events for administrator approval. | Vite, TypeScript, Firebase, Leaflet.js |
-| **ANPR Smart Parking System** | AI-powered parking management system using YOLOv8 and OCR for real-time licence plate recognition. Includes payment dashboard and Flask API. Achieved **Technology Readiness Level (TRL) 4** during university startup accelerator testing. | Python, Flutter, YOLOv8, OCR, Firebase |
-| **Marketplace4U** | Student recommerce platform for buying and selling second-hand items. | Next.js, Firebase|
+| **[Monitus](https://github.com/LuqmanMC305/monitus-project)** *(Final Year Project)* | Localised emergency alert platform with geofencing, real-time notifications and an admin dashboard. Awarded the **Bronze Award** at the **PIXEL 2026 Final Year Project Competition**. | Flutter, Laravel, PostgreSQL, Firebase Cloud Messaging (FCM), Telegram Bot API, Leaflet.js, Gemini API |
+| **[Campus Connect](https://github.com/Raxatal/CampusConnect-Py4)** | Interactive web platform that centralises USM campus events using a map interface. Students can browse, filter and submit events for administrator approval. | Vite, TypeScript, Firebase, Leaflet.js |
+| **[ANPR Smart Parking System](https://github.com/LuqmanMC305/anpr-parking-system-fork)** | AI-powered parking management system using YOLOv8 and OCR for real-time licence plate recognition. Includes payment dashboard and Flask API. Achieved **Technology Readiness Level (TRL) 4** during university startup accelerator testing. | Python, Flutter, YOLOv8, OCR, Firebase |
+| **[Marketplace4U](https://github.com/LuqmanMC305/usmmarketplace4u)** | Student recommerce platform for buying and selling second-hand items. | Next.js, Firebase |
 
 ---
 
@@ -173,6 +173,7 @@ Expected Graduation: 2026
 - Data Structures & Algorithms
 - Competitive Programming
 - System Design
+- GIS
 
 ---
 
