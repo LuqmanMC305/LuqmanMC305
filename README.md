@@ -34,10 +34,18 @@ My interests include full-stack web development, backend engineering, AI applica
 
 # Experience
 
-### Computer Science Student
-**Universiti Sains Malaysia**
+### Software Engineering Internship
+**[VeecoTech (Penang Branch)](https://www.veecotech.com.my)** | Mar 2025 – Sep 2025
+- Developed and maintained HR management system features using Laravel, JavaScript, and Oracle Database.
+- Managed database architecture and version control through Git/GitHub workflows. 
+- Drove quality assurance and release reliability by conducting structured User Acceptance Testing (UAT) within Agile sprint workflows.
+- Executing remote staging bug fixes via AnyDesk.
 
-Most of my software engineering experience comes from university projects, and internships, where I usually work on web applications, cross-platform mobile development, and embedded systems engineering.
+### Junior Software Developer Internship
+**[ABN Sdn Bhd](https://www.veecotech.com.my)** | Aug 2023 – Oct 2023
+- Involved in creating weekly reports.
+- Learnt the basics of frontend development (HTML/CSS, Laravel, JavaScript).
+- Wrote a documentation for Easy!Appointments web application.
 
 ---
 
