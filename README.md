@@ -3,7 +3,7 @@
 # Hi, I'm Luqman Afizar 👋
 
 Software Engineering Student at Universiti Sains Malaysia  
-Interested in Full-Stack Development • AI • Embedded Systems • Geographic Information Systems (GIS)
+Interested in Full-Stack Development • Football Analytics • Geographic Information Systems (GIS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/luqmanulhakim-afizar-190820241)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:luqmanulhakim0003@gmail.com)
@@ -17,7 +17,7 @@ Interested in Full-Stack Development • AI • Embedded Systems • Geographic 
 
 I'm a final year Software Engineering undergraduate at Universiti Sains Malaysia with an interest in building things that solves practical problems for fun!
 
-My interests include full-stack web development, backend engineering, AI applications, and embedded systems. I enjoy learning a lot of things such as cutting-edge technologies, linguistics, algorithms, geography, meteorology, geology, history, political science, astronomy, and taxonomy. Hence, my intellectual interests are extremely wide! 
+My interests include full-stack web development, backend engineering, AI applications, and embedded systems. I enjoy learning a lot of things such as cutting-edge technologies, linguistics, algorithms, geography, meteorology, geology, history, political science, astronomy, and taxonomy. 
 
 ---
 
@@ -55,7 +55,7 @@ My interests include full-stack web development, backend engineering, AI applica
 
 Bachelor of Software Engineering with Honours
 
-Expected Graduation: 2026
+Expected Graduation: November 2026
 
 ---
 
@@ -166,20 +166,21 @@ Expected Graduation: 2026
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](#)
 
 ## **Topics**
 
 - Data Structures & Algorithms
-- Competitive Programming
+- Programming Puzzles
 - System Design
-- GIS
+- Football Analytics (Based on Fantasy Premier League)
 
 ---
 
 # Awards & Achievements
 
-- 🏆 Dean's List for Semesters:  II, IV, V, VI, VII
+- 🏆 Dean's List for 5 Semesters
 - 🎓 Bachelor of Computer Science, USM
 - 📐 Boulder Fence Model Design Competition Engineering Week 2019 - Runner Up & The Most Robust Design Awards (State Level)
 
